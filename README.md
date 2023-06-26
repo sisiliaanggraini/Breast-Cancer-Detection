@@ -1,5 +1,4 @@
-# Deteksi_Multiview_Kanker-Payudara
-
+# Breast-Cancer-Detection
 Selamat datang di repositori DETEKSI MULTIVIEW KANKER PAYUDARA! Penelitian ini bertujuan untuk mengembangkan metode deteksi kanker payudara yang efektif menggunakan citra mamografi dengan pendekatan Multiview Convolutional Neural Network (MVCNN).
 
 ### Deskripsi Penelitian
